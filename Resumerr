@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/12.0.0/octicons.min.css" integrity="sha512-...your-integrity-hash-here..." crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+
+<head>
+    <style>
+body {
+    background-color: #333; /* Dark Background */
+    color: #eee; /* Light Text */
+    font-family: verdana;
+    font-size: 14px;
+   
+/* Set initial opacity to 0 for fade-in effect */
+
+}
+
+     
+        h1 {
+            text-align: center;
+            font-size: 30px;
+            color: #3498db;
+        }
+
+        h2,
+        h3,
+        h4 {
+            margin-bottom: 5px;
+            color: #eee;
+        }
+
+        p,
+        ul {
+            margin-top: 5px;
+            margin-bottom: 10px;
+            color:  #3498db
+        }
+
+        a {
+            color:  #3498db;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .core-competencies {
+            font-weight: bold;
+            color: #000000;
+        }
+        .social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .social-icon {
+    margin: 0 10px; /* Adjust the spacing between icons */
+    font-size: 24px; /* Adjust the icon size */
+    color: #0077b5; /* Adjust the icon color */
+  }
+  .github-icon {
+  font-size: 24px;
+  color: #4078c0; /* Adjust the color as needed */
+}
+.center-container {
+            text-align: center;
+        }
+         /* Two-column layout */
+         .columns-container {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap; /* Allow columns to wrap to the next line if needed */
+        }
+
+        .column {
+            width: 48%; /* Adjust the width of each column */
+            box-sizing: border-box;
+            padding: 0 15px; /* Add some padding for better readability */
+        }
+    </style>
+    <title>Yasser Ameer's Resume</title>
+</head>
+
+<body>
+    <div id="content" style="display: none;">
+    <div class="center-container">
+        
+        <h1>YASSER AMEER</h1>
+            <a href="mailto:Yasser982@outlook.com" class="social-icon"><i class="fas fa-envelope"></i></a>
+            <a href="https://www.linkedin.com/in/yasser-ameer-a52803229" target="_blank" class="social-icon"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/yasserAmeer0" target="_blank" class="social-icon github-icon"><i class="fab fa-github"></i></a>
+      
+    </div>
+
+    <div class="columns-container">
+        <div class="column">
+    <h2>SUMMARY OF SKILLS AND QUALIFICATIONS</h2>
+    <p><span class="core-competencies">Operating Systems</span>: Windows 11 • Windows 10 • Linux</p>
+    <p><span class="core-competencies">Applications</span>: Microsoft Office suite • Excel • PPT • Eclipse • Android Studio • SharePoint INTRANET</p>
+    <p><span class="core-competencies">Programming</span>: C++ • Java • Python-Flask • Arduino • VHDL • MATLAB • Octave • HTML • CSS • OpenGL (C++)</p>
+    <p><span class="core-competencies">Other</span>: Visual Studio • MATLAB • JetBrains</p>
+    <p><span class="core-competencies">Languages</span>: French (Spoken & Written) • English (Spoken & Written) • Arabic (Spoken & Written)</p>
+    <p><span class="core-competencies">Licenses & Certifications</span>: Valid driving permit • EXCEL Training Certificates</p>
+
+    <h2>EDUCATION</h2>
+    <h3>Bachelor of Engineering – Computer Engineering Co-op</h3>
+    <p>Concordia University, Montreal, QC</p>
+    <ul>
+        <li>Member of the Institute for Co-operative Education</li>
+        <li>GPA 3.2/4.30</li>
+        <li>Relevant Courses: Software Process and Practices, Introduction to Real‑Time Systems</li>
+        <li>2021-2025 (Expected)</li>
+    </ul>
+
+    <h3>Bachelor of Engineering – Electrical Engineering Co-op (14 credits)</h3>
+    <p>Concordia University, Montreal, QC</p>
+    <p>Fall 2021</p>
+
+    <h3>DEC in Pure and Applied Science</h3>
+    <p>Collège De Maisonneuve, Montreal, QC</p>
+    <p>2019-2021</p>
+
+    <h3>High School Diploma</h3>
+    <p>Académie Michèle-Provost, Montreal, QC</p>
+    <p>2014-2019</p>
+
+
+
+    <h2>WORK EXPERIENCE</h2>
+    <h3>Analyst in the Knowledge Department in Engineering (Co-op) January 2023 – April 2023</h3>
+    <p>Internship at Pratt & Whitney Canada, Longueil, QC</p>
+    <ul>
+        <li>Learning new skills and concepts such as SharePoint, Enovia, and Product Lifecycle Management.</li>
+        <li>Worked on multiple long-term projects, each project was assigned by a different team member.</li>
+        <li>Applying the knowledge I gained in my classes to enhance my work experience.</li>
+        <li>Working in a friendly environment and gaining insight into how large corporations operate.</li>
+        <li>Conducting daily meetings with the team to make sure the project is on track.</li>
+        <li><span class="core-competencies">Core competencies</span>: PLM- Enovia- Excel</li>
+    </ul>
+
+    <h3>Cashier June 2019 – August 2019</h3>
+    <p>Souvenir Place Jacques-Cartier, Montréal, QC</p>
+    <ul>
+        <li>Working in a multi-racial environment with customers from all around the world.</li>
+        <li>Use the appropriate communication skill depending on the customer.</li>
+        <li>Maintaining an enjoyable working environment and team spirit.</li>
+    </ul>
+</div>
+    
+        <div class="column">
+    <h2>PROJECTS</h2>
+
+    <h3>Fall 2023: Design and build a functioning autonomous hovercraft that can follow a specified course</h3>
+    <p>Concordia University, Montreal, QC</p>
+    <ul>
+        <li>Plan and design the hovercraft within a team of 5.</li>
+        <li>Out of 17 teams, only 3 successfully completed the maze, and we were one of them.</li>
+        <li>My role was to ensure the stability and straight motion of the hovercraft, including work on the coding aspects.</li>
+        <li>The objective is to acquaint students with engineering team design projects.</li>
+        <li><span class="core-competencies">Core competencies</span>: C programming, Arduino IDE.</li>
+    </ul>
+
+    <h3>Summer 2023: Building a simulated tennis game with OpenGL</h3>
+    <p>Concordia University, Montreal, QC</p>
+    <ul>
+        <li>Code and build a simulated tennis game with 1vs1 gamer within in a team of 5.</li>
+        <li>Use models and animated objects to make a beautiful background decoration.</li>
+        <li>The objective is to help understanding of computer graphics principles and enhancing graphics programming skills.</li>
+        <li>My responsibility involved importing models, animating them, and working on hierarchy modeling.</li>
+        <li><span class="core-competencies">Core competencies</span>: OpenGL C++, Hierarchy Modeling.</li>
+    </ul>
+
+    <h3>Summer 2022: Designing a digital system that counts the number of people in the room</h3>
+    <p>Concordia University, Montreal, QC</p>
+    <ul>
+        <li>The room counter has specific details that need to be implemented.</li>
+        <li>Drawing a conceptual diagram and modeling the circuit using VHDL.</li>
+        <li>The objective is to teach students more about digital systems design.</li>
+        <li>This was accomplished by me.</li>
+        <li><span class="core-competencies">Core competencies</span>: VHDL programming, Conceptual Diagram Design.</li>
+    </ul>
+
+    <h3>Fall 2022: Building shopping cart website</h3>
+    <p>Concordia University, Montreal, QC</p>
+    <ul>
+        <li>Collaborated in building a website capable of processing customer orders and calculating cart totals within a team of 5.</li>
+        <li>The primary objective was to impart knowledge on software development processes and practices, with a focus on Scrum methodology.</li>
+        <li>I played a key role in introducing Flask to the team and organizing files and tasks.</li>
+        <li><span class="core-competencies">Core competencies</span>: Flask (Python), CSS, HTML, Scrum.</li>
+    </ul>
+
+    <h3>Fall 2022: Building a CV with HTML and CSS</h3>
+    <ul>
+        <li>This is a personal project that I undertook to learn HTML and CSS.</li>
+        <li>It helped me gain valuable knowledge of HTML, which I also applied during my internship.</li>
+        <li><span class="core-competencies">Core competencies</span>: HTML and CSS.</li>
+    </ul>
+
+    <h2>VOLUNTEER WORK</h2>
+    <h3>Sept 2020: Tutor</h3>
+    <p>Al-Tawheed, Montreal, QC</p>
+    <ul>
+        <li>Supporting children in their learning of a new language.</li>
+        <li>Organizing various events across different areas of interest.</li>
+    </ul>
+</div></div></div>
+
+<script>
+    // Wait for the DOM to be fully loaded
+    document.addEventListener("DOMContentLoaded", function () {
+        // Fade in effect using JavaScript
+        document.getElementById("content").style.animation = "fadeIn 1s ease-out";
+
+        // Remove the "display: none;" style to make the content visible
+        document.getElementById("content").style.display = "block";
+    });
+</script>
+
+<style>
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+</style>
+
+</style>
+</body>
+
+</html>
